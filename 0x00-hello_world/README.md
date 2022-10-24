@@ -1,1 +1,1 @@
-A readme of hello worlds
+This is a project on basic c programming 
